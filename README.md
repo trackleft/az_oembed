@@ -1,18 +1,7 @@
-# Quickstart module composer project template
+# Quickstart module for oembed integration
 
-This repo provides a composer project template for creating a custom Drupal
-module designed to be used on Arizona Quickstart websites but that is not
-suitable for inclusion in Quickstart itself for one reason or another.
-
-## Create project from this template repository
-To create your own module project using this repository as a template use the
-following composer command:
-```
-composer create-project --no-install --ask az-digital/az_oembed:dev-main
-```
-
-After creating your project, you'll want to replace all instances of
-`az_oembed` and `az-oembed` with your own module name.
+Provides the required configuration for using oembed for:
+- Instagram posts
 
 ## Lando configuration
 This project template includes a sample lando configuration file that can be
