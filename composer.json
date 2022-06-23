@@ -1,0 +1,9 @@
+{
+  "name": "az-digital/az_oembed",
+  "description": "Composer project template for custom Quickstart module.",
+  "type": "drupal-custom-module",
+  "require": {
+      "drupal/core": "^9",
+      "drupal/oembed_providers": "^2.0"
+  }
+}
