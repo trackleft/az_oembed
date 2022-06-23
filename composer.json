@@ -1,5 +1,5 @@
 {
-  "name": "az-digital/az_oembed",
+  "name": "trackleft/az_oembed",
   "description": "Composer project template for custom Quickstart module.",
   "type": "drupal-custom-module",
   "require": {
